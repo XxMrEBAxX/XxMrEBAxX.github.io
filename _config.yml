@@ -1,7 +1,9 @@
+remote_theme : piazzai/cvless
+
 title: ""
 description: ""
 baseurl: ""
-url: ""
+url: "https://xxmrebaxx.github.io"
 
 exclude:
   - demo/
